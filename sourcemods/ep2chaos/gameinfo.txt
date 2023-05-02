@@ -12,6 +12,7 @@
 			game+mod+mod_write+default_write_path	|gameinfo_path|.
 			gamebin					|gameinfo_path|bin
 			game_lv					|all_source_engine_paths|hl2/hl2_lv.vpk
+			game					"..\..\common\Half-Life 2\ep2"
 			game+mod				|all_source_engine_paths|ep2/ep2_sound_vo_english.vpk
 			game+mod				|all_source_engine_paths|ep2/maps/ep2_outland_02.bsp
 			game+mod				|all_source_engine_paths|ep2/ep2_pak.vpk
@@ -27,7 +28,6 @@
 			game					|all_source_engine_paths|episodic
 			game					|all_source_engine_paths|hl2
 			platform				|all_source_engine_paths|platform
-			game					"..\..\common\Half-Life 2\ep2"
 		}
 	}
 	
